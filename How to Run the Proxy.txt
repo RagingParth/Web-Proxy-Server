@@ -1,0 +1,10 @@
+Using Firefox Web Browser:
+
+Go to Browser Settings.
+Select the 'Advanced' option.
+Select the 'Network' tab.
+Click on 'Configure how Firefox connects to the Internet' Settings.
+Use 'Manual Proxy Configurations'.
+Put 'localhost' in HTTP Proxy and the '12345' as Port. (Port number can be changed in the code if needed)
+Run the Web Proxy Server Python Script.
+Test with any website and read the response.
